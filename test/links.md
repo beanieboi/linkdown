@@ -1,0 +1,10 @@
+- [v] http://www.confreaks.com/videos/2348-mwrc2013-ruby-at-github
+- [] http://tapoueh.org/blog/2013/05/02-nearest-big-city.html
+- [x] http://gamestage.radiatedpixel.com
+- [x] https://github.com/TeehanLax/Hyperlapse.js
+- [x] http://www.reddit.com/r/photography/comments/17wvtw/i_present_you_my_diy_4x5_camera/
+- [x] http://www.altdevblogaday.com/2013/02/22/latency-mitigation-strategies/
+- [x] http://blog.engineyard.com/2012/continuous-integration
+- [<3x] http://lwn.net/Articles/250967
+- [<3x] http://www.slideshare.net/tim.lossen.de/dashboard-mania
+- [<3x] https://speakerdeck.com/jeg2/10-things-you-didnt-know-rails-could-do
